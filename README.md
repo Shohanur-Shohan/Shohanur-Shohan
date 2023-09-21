@@ -1,8 +1,6 @@
-<div align="center">
-    <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=Shohanur-Shohan.Shohanur-Shohan" />
-</div>
 
 <h1 align="center">
+    <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=Shohanur-Shohan.Shohanur-Shohan" />
     <h3 align="center"> Hi there 👋, </h3>    
 </h1>
 
