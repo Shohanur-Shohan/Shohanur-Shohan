@@ -18,7 +18,7 @@
  
  🌱 I’m currently learning **React, Nextjs13, Laravel**
 
- 💬 Ask me about **Node.js, React, Firebase, MongoDB... or anything [here](https://github.com/salesp07/salesp07/issues)**
+ 💬 Ask me about ** React, Node.js, Nextjs, Laravel ... or anything [here](https://github.com/salesp07/salesp07/issues)**
 
  </div>
  
