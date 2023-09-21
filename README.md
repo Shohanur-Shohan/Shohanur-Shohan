@@ -16,7 +16,7 @@
  
  🔭 I’m currently working on **a blog app**
  
- 🌱 I’m currently learning **React, Tailwind, Nextjs, **
+ 🌱 I’m currently learning **React, Nextjs13, Laravel**
 
  💬 Ask me about **Node.js, React, Firebase, MongoDB... or anything [here](https://github.com/salesp07/salesp07/issues)**
 
@@ -40,7 +40,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=javascript,react,tailwind,mui,nodejs,mongodb,express,nextjs,firebase" /><br>
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,php,mysql,figma,github,git" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,php,mysql,laravel,figma,github,git" />
 </div>
 
 <br/>
