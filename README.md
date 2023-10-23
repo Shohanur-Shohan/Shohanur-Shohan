@@ -18,7 +18,7 @@
  
  🌱 I’m currently learning **React, Nextjs13, Laravel**
 
- 💬 Ask me about ** React, Node.js, Nextjs, Laravel ... or anything [here](https://github.com/salesp07/salesp07/issues)**
+ 💬 Ask me about ** React, Node.js, Nextjs, Laravel ... or anything [here](https://www.facebook.com/profile.php?id=100087339940873)**
 
  </div>
  
@@ -44,21 +44,6 @@
 </div>
 
 <br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shohanur-Shohan)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Shohanur-Shohan&show_icons=true&count_private=true)  
-<br/>
-
-<hr/>
-
-- uses: Platane/snk@v3
-  with:
-    github_user_name: ${{ github.Shohanur-Shohan }}
-    outputs: |
-      dist/github-snake.svg
-      dist/github-snake-dark.svg?palette=github-dark
-      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
-
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
