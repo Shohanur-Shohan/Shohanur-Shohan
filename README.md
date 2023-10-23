@@ -44,6 +44,11 @@
 </div>
 
 <br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shohanur-Shohan)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Shohanur-Shohan&show_icons=true&count_private=true)  
+<br/>
+
 <hr/>
 
 <div align="center">
