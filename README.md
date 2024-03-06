@@ -16,7 +16,7 @@
  
  🔭 I’m currently working on **a blog app**
  
- 🌱 I’m currently learning **React, Next-js, Express**
+ 🌱 I’m currently learning **React, Next-js, Node**
 
  💬 Ask me about ** React, Nextjs ,Nextjs-Backend... or anything [here](https://www.facebook.com/profile.php?id=100087339940873)**
 
