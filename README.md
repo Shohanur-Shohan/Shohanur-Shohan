@@ -18,7 +18,7 @@
  
  🌱 I’m currently learning **React, Next-js, Node**
 
- 💬 Ask me about ** React, Nextjs ,Nextjs-Backend... or anything [here](mailto:srshohanur734@gmail.com)**
+ 💬 Ask me about ** React, Nextjs, MERN... or anything [here](mailto:srshohanur734@gmail.com)**
 
  </div>
  
